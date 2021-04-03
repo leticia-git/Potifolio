@@ -1,0 +1,32 @@
+ a{
+
+font-family: Big Holidays;
+font-size: 30px;
+color: #0569B7 !important;
+padding: 20px;
+
+}
+
+
+    
+body{
+    background-color: #EAA627;
+}
+
+
+.navbar-toggler{
+    border: none;
+    
+}
+
+
+#logo{
+    position: absolute;
+    left: 35%;
+    right: 50%;
+    margin-top: 10%;
+}
+
+#bolha{
+    margin-left: -10%;
+}
